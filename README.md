@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">İsatnbulda bir yazılımcı</h3>
+<h3 align="center">Junior BackEnd Developer</h3>
 
 - 🌱 I’m currently learning **.NET 7 CQRS, CORE**
 
